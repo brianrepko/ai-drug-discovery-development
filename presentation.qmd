@@ -47,6 +47,10 @@ editor: source
 
 * AI has always been a part of DD&D - computational biology as a field
 * New focus on GenAI and agentic workflows (and improved tools)
+* Hype is a bit out of control (Anthropic S-1)
+* Scientific AI vs Operational AI
+* Huge effort in making data AI-ready
+* Value in dual-use of AI - succeeding -and- not-failing
 
 # Fireside Chat
 
