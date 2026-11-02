@@ -1,16 +1,16 @@
 ---
-title: "Open Source and the FDA"
-author: "Brian Repko"
+title: "AI in Drug Discovery and Development"
+author: "A Panel Discussion"
 format: 
   revealjs:
     theme: default
     slide-number: c/t
-    footer: "OSN 2026"
+    footer: "AI in Healthcare Forum 2026"
     center-title-slide: true
 editor: source
 ---
 
-## Introduction
+## Introduction - Brian Repko
 
 ::: {.fragment}
 ![](./images/novartis-logo.png){.absolute top=60 left=700 width="200"}
@@ -25,7 +25,7 @@ editor: source
 ![](./images/pharmaverse-logo.png){.absolute top=10 left=770 width="80"}
 
 
-* Minneapolis-St Paul "city captain" for Bits-in-Bio
+* Minneapolis-St Paul "chapter lead" for Bits-in-Bio
 * R/Pharma and `{pharmaverse}` contributor
 :::
 
@@ -37,4 +37,8 @@ editor: source
 :::
 ![](./images/brianrepko.jpg){.absolute top=5 left=600 width="80"}
 
-# Getting to know the FDA
+## Introduction - Dr. Erika Kvikstad
+
+## Introduction - Dr. Geof Hannigan
+
+
