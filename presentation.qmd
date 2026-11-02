@@ -10,6 +10,8 @@ format:
 editor: source
 ---
 
+## Agenda
+
 ## Introduction - Brian Repko
 
 ::: {.fragment}
@@ -41,4 +43,11 @@ editor: source
 
 ## Introduction - Dr. Geof Hannigan
 
+## - Brian
+
+# Fireside Chat
+
+# Audience Q&A
+
+# Thank you
 
