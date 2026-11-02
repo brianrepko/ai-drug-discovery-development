@@ -1,0 +1,40 @@
+---
+title: "Open Source and the FDA"
+author: "Brian Repko"
+format: 
+  revealjs:
+    theme: default
+    slide-number: c/t
+    footer: "OSN 2026"
+    center-title-slide: true
+editor: source
+---
+
+## Introduction
+
+::: {.fragment}
+![](./images/novartis-logo.png){.absolute top=60 left=700 width="200"}
+
+* 8 years in oncology research
+* 5 years in an internal CRO (-omic biomarkers)
+  * including validation and qualification
+:::
+
+::: {.fragment}
+![](./images/bits-in-bio-logo.jpg){.absolute top=10 left=700 width="80"}
+![](./images/pharmaverse-logo.png){.absolute top=10 left=770 width="80"}
+
+
+* Minneapolis-St Paul "city captain" for Bits-in-Bio
+* R/Pharma and `{pharmaverse}` contributor
+:::
+
+::: {.fragment}
+![](./images/r-logo.png){.absolute top=5 left=850 width="100"}
+
+* This talk will have more drugs / biologics focus than devices
+* This talk will have more R information than Python
+:::
+![](./images/brianrepko.jpg){.absolute top=5 left=600 width="80"}
+
+# Getting to know the FDA
