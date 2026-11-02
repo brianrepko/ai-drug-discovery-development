@@ -1,6 +1,6 @@
 ---
 title: "AI in Drug Discovery and Development"
-author: "A Panel Discussion"
+author: "Panel Discussion"
 format: 
   revealjs:
     theme: default
@@ -12,38 +12,41 @@ editor: source
 
 ## Agenda
 
-## Introduction - Brian Repko
+* Panel Introductions
+* AI in Drug Discovery and Development
+* "Fireside Chat" (panelist Q&A)
+* Audience Q&A
+
+## Intro - Brian Repko
 
 ::: {.fragment}
-![](./images/novartis-logo.png){.absolute top=60 left=700 width="200"}
+![](./images/novartis-logo.png){.absolute top=0 left=800 width="200"}
 
+* 11 years at Novartis (now retired)
 * 8 years in oncology research
 * 5 years in an internal CRO (-omic biomarkers)
+  * bulk RNA, DNA panel, scRNA, T/B cell, CITE-seq, spatial
   * including validation and qualification
 :::
 
 ::: {.fragment}
-![](./images/bits-in-bio-logo.jpg){.absolute top=10 left=700 width="80"}
-![](./images/pharmaverse-logo.png){.absolute top=10 left=770 width="80"}
-
+![](./images/bits-in-bio-logo.jpg){.absolute top=80 left=800 width="80"}
+![](./images/pharmaverse-logo.png){.absolute top=80 left=870 width="80"}
 
 * Minneapolis-St Paul "chapter lead" for Bits-in-Bio
 * R/Pharma and `{pharmaverse}` contributor
 :::
 
-::: {.fragment}
-![](./images/r-logo.png){.absolute top=5 left=850 width="100"}
+![](./images/brianrepko.jpg){.absolute top=5 left=700 width="80"}
 
-* This talk will have more drugs / biologics focus than devices
-* This talk will have more R information than Python
-:::
-![](./images/brianrepko.jpg){.absolute top=5 left=600 width="80"}
+## Intro - Dr. Erika Kvikstad
 
-## Introduction - Dr. Erika Kvikstad
+## Intro - Dr. Geof Hannigan
 
-## Introduction - Dr. Geof Hannigan
+## AI and DD&D - Brian {.smaller}
 
-## - Brian
+* AI has always been a part of DD&D - computational biology as a field
+* New focus on GenAI and agentic workflows (and improved tools)
 
 # Fireside Chat
 
