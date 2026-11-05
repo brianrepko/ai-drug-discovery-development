@@ -43,14 +43,39 @@ editor: source
 
 ## Intro - Dr. Geof Hannigan
 
-## AI and DD&D - Brian {.smaller}
+## AI and DD&D - Brian (1/2) {.smaller}
 
-* AI has always been a part of DD&D - computational biology as a field
-* New focus on GenAI and agentic workflows (and improved tools)
-* Hype is a bit out of control (Anthropic S-1)
-* Scientific AI vs Operational AI
-* Huge effort in making data AI-ready
-* Value in dual-use of AI - succeeding -and- not-failing
+* AI has always been a part of DD&D - comp.bio and comp.chem as fields
+  * New focus on GenAI, agentic workflows or skills, and improved tools
+
+* Novartis efforts - data42, scientific vs operational AI, tooling
+  * Huge efforts to collect and connect preclinical, clinical trial, and real-world data
+  * Investments in predictive safety/tox, therapeutic design, and lab automation
+
+* Data fit, quality, and integration are key to model success
+  * Unresolvable gaps in data - missing / mistaken / methods
+  * Existing knowledge is sometimes not reproducible or not accurate
+
+* Hype is a bit out of control (Anthropic S-1) and DD&D is a miracle
+  * We are still learning basic biology and developing new methods (shRNA/sgRNA)
+  * Genuine effort on where to set the bar here
+
+## AI and DD&D - Brian (2/2) {.smaller}
+
+* Drug Development / GXP
+  * CDISC efforts - 360i, USDM / TMF, SDTM-ADAM and data engineering coding
+  * Only non-critical tasks and then with auditing and approvals
+  * Validation of agents similar to that of R and R packages (with non-determinism)
+
+* Regulatory Issues
+  * FDA already using AI for review of protocols and trial data (ELSA)
+  * Sponsors learning how to do the same on their side prior to submission
+
+* What is successful use of AI in DD&D? What is ROI on the tools?
+  * Somewhat timelines (and perhaps cost) - biological latency still exists
+    * If we lower cost, does that change what we go after?
+  * Success as improving p(success) - better models, biomarkers, and trial designs
+    * If more drug candidates, do we create a bottleneck with patients? sites?
 
 # Fireside Chat
 
