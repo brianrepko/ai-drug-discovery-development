@@ -17,31 +17,33 @@ editor: source
 * "Fireside Chat" (panelist Q&A)
 * Audience Q&A
 
-## Intro - Brian Repko
-
-::: {.fragment}
-![](./images/novartis-logo.png){.absolute top=0 left=800 width="200"}
+## Brian Repko [(he/him)]{style="font-size: 70%"}
 
 * 11 years at Novartis (now retired)
 * 8 years in oncology research
 * 5 years in an internal CRO (-omic biomarkers)
   * bulk RNA, DNA panel, scRNA, T/B cell, CITE-seq, spatial
   * including validation and qualification
-:::
-
-::: {.fragment}
-![](./images/bits-in-bio-logo.jpg){.absolute top=80 left=800 width="80"}
-![](./images/pharmaverse-logo.png){.absolute top=80 left=870 width="80"}
 
 * Minneapolis-St Paul "chapter lead" for Bits-in-Bio
 * R/Pharma and `{pharmaverse}` contributor
-:::
 
 ![](./images/brianrepko.jpg){.absolute top=5 left=700 width="80"}
+![](./images/novartis-logo.png){.absolute top=0 left=800 width="200"}
 
-## Intro - Dr. Erika Kvikstad
+![](./images/bits-in-bio-logo.jpg){.absolute top=80 left=800 width="80"}
 
-## Intro - Dr. Geof Hannigan
+![](./images/pharmaverse-logo.png){.absolute top=80 left=870 width="80"}
+
+## Dr. Erika Kvikstad [(she/her)]{style="font-size: 70%"}
+
+![](./images/erika.png)
+
+## Dr. Geof Hannigan [(he/him)]{style="font-size: 70%"}
+
+## [What is Drug Discovery and Development?]{.r-fit-text}
+
+![](./images/dd-and-d.png)
 
 ## AI and DD&D - Brian (1/2) {.smaller}
 
@@ -77,9 +79,25 @@ editor: source
   * Success as improving p(success) - better models, biomarkers, and trial designs
     * If more drug candidates, do we create a bottleneck with patients? sites?
 
+## AI and DD&D - Erika (1/2)
+
+[We can build a better drug discovery process]{.r-fit-text}
+
+![](./images/erika-1.png)
+
+## AI and DD&D - Erika (2/2)
+
+[Two questions on the path to better medicines]{.r-fit-text}
+
+![](./images/erika-2.png)
+
+## AI and DD&D - Geof (1/2) {.smaller}
+
+## AI and DD&D - Geof (2/2) {.smaller}
+
 # Fireside Chat
 
 # Audience Q&A
 
-# Thank you
+# Thank you!
 
