@@ -8,6 +8,8 @@ format:
     footer: "AI in Healthcare Forum 2026"
     center-title-slide: true
 editor: source
+filters:
+  - roughnotation
 ---
 
 ## Agenda
@@ -39,7 +41,7 @@ editor: source
 
 ![](./images/erika.png)
 
-## Dr. Geof Hannigan [(he/him)]{style="font-size: 70%"} {.smaller}
+## Geof Hannigan, PhD [(he/him)]{style="font-size: 70%"} {.smaller}
 ![](./images/geof.png){.absolute top=0 left=800 width="120"}
 
 Director of Startup Engagement, Mayo Clinic
@@ -59,36 +61,36 @@ Director of Startup Engagement, Mayo Clinic
 
 ## AI and DD&D - Brian (1/2) {.smaller}
 
-* AI has always been a part of DD&D - comp.bio and comp.chem as fields
+* [AI has always been a part of DD&D]{.rn-fragment rn-type=underline rn-color=red} - comp.bio and comp.chem as fields
   * New focus on GenAI, agentic workflows or skills, and improved tools
 
-* Novartis efforts - data42, scientific vs operational AI, tooling
+* Novartis efforts - data42, [scientific vs operational AI]{.rn-fragment rn-type=underline rn-color=red}, tooling
   * Huge efforts to collect and connect preclinical, clinical trial, and real-world data
   * Investments in predictive safety/tox, therapeutic design, and lab automation
 
-* Data fit, quality, and integration are key to model success
+* Data fit, [quality]{.rn-fragment rn-type=underline rn-color=red}, and integration are key to model success
   * Unresolvable gaps in data - missing / mistaken / methods
   * Existing knowledge is sometimes not reproducible or not accurate
 
 * Hype is a bit out of control (Anthropic S-1) and DD&D is a miracle
-  * We are still learning basic biology and developing new methods (shRNA/sgRNA)
+  * We are [still learning basic biology]{.rn-fragment rn-type=underline rn-color=red} and developing new methods (shRNA/sgRNA)
   * Genuine effort on where to set the bar here
 
 ## AI and DD&D - Brian (2/2) {.smaller}
 
 * Drug Development / GXP
-  * CDISC efforts - 360i, USDM / TMF, SDTM-ADAM and data engineering coding
-  * Only non-critical tasks and then with auditing and approvals
+  * CDISC efforts - 360i, USDM / TMF, SDTM-ADAM and data engineering [coding]{.rn-fragment rn-type=underline rn-color=red}
+  * Only [non-critical tasks]{.rn-fragment rn-type=underline rn-color=red} and then with auditing and approvals
   * Validation of agents similar to that of R and R packages (with non-determinism)
 
 * Regulatory Issues
-  * FDA already using AI for review of protocols and trial data (ELSA)
+  * [FDA already using AI]{.rn-fragment rn-type=underline rn-color=red} for review of protocols and trial data (ELSA)
   * Sponsors learning how to do the same on their side prior to submission
 
 * What is successful use of AI in DD&D? What is ROI on the tools?
   * Somewhat timelines (and perhaps cost) - biological latency still exists
     * If we lower cost, does that change what we go after?
-  * Success as improving p(success) - better models, biomarkers, and trial designs
+  * [Success as improving p(success)]{.rn-fragment rn-type=underline rn-color=red} - better models, biomarkers, and trial designs
     * If more drug candidates, do we create a bottleneck with patients? sites?
 
 ## AI and DD&D - Erika (1/2)

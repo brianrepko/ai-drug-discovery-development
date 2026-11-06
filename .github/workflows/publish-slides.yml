@@ -22,7 +22,6 @@ jobs:
       - name: Install Quarto extensions
         run: |
           quarto add EmilHvitfeldt/quarto-roughnotation --no-prompt
-          quarto add EmilHvitfeldt/quarto-timeline --no-prompt
 
       - name: Install dependencies
         run: |
