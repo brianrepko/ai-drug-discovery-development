@@ -39,7 +39,19 @@ editor: source
 
 ![](./images/erika.png)
 
-## Dr. Geof Hannigan [(he/him)]{style="font-size: 70%"}
+## Dr. Geof Hannigan [(he/him)]{style="font-size: 70%"} {.smaller}
+![](./images/geof.png){.absolute top=0 left=800 width="120"}
+
+Director of Startup Engagement, Mayo Clinic
+
+::: {.absolute top=200}
+* Passionate about making a positive impact on patient lives by blending science, technology, and entrepreneurship
+* Career spanning bench science, computational biology, business development, and startup engagement
+* Co-founder and former Executive Director of Merck Digital Sciences Studio startup accelerator program
+* Supporter of innovation ecosystems, including founding the Minnesota biotech networking group BiotechMN
+* Blogging at Living Bio (https://livingbio.substack.com)
+* Email: hannigan.geof@gmail.com
+:::
 
 ## [What is Drug Discovery and Development?]{.r-fit-text}
 
@@ -91,9 +103,17 @@ editor: source
 
 ![](./images/erika-2.png)
 
-## AI and DD&D - Geof (1/2) {.smaller}
+## AI and DD&D - Geof (1/2)
 
-## AI and DD&D - Geof (2/2) {.smaller}
+[Leveraging AI Across the Pipeline]{.r-fit-text}
+
+![](./images/geof-1.png)
+
+## AI and DD&D - Geof (2/2)
+
+[AI Trends in Drug Discovery & Development]{.r-fit-text}
+
+![](./images/geof-2.png)
 
 # Fireside Chat
 
