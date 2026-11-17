@@ -73,24 +73,24 @@ Director of Startup Engagement, Mayo Clinic
   * Existing knowledge is sometimes not reproducible or not accurate
 
 * Hype is a bit out of control (Anthropic S-1) and DD&D is a miracle
-  * We are [still learning basic biology]{.rn-fragment rn-type=underline rn-color=red} and developing new methods (shRNA/sgRNA)
   * Genuine effort on where to set the bar here
+  * We are [still learning basic biology]{.rn-fragment rn-type=underline rn-color=red} and developing new methods (obs and perturb)
 
 ## AI and DD&D - Brian (2/2) {.smaller}
 
 * Drug Development / GXP
-  * CDISC efforts - 360i, USDM / TMF, SDTM-ADAM and data engineering [coding]{.rn-fragment rn-type=underline rn-color=red}
+  * CDISC efforts - [360i]{.rn-fragment rn-type=underline rn-color=red}, USDM / TMF, SDTM-ADAM and data engineering [coding]{.rn-fragment rn-type=underline rn-color=red}
   * Only [non-critical tasks]{.rn-fragment rn-type=underline rn-color=red} and then with auditing and approvals
   * Validation of agents similar to that of R and R packages (with non-determinism)
 
 * Regulatory Issues
-  * [FDA already using AI]{.rn-fragment rn-type=underline rn-color=red} for review of protocols and trial data (ELSA)
+  * [FDA already using AI]{.rn-fragment rn-type=underline rn-color=red} for review of protocols and trial data (Halo, ELSA)
   * Sponsors learning how to do the same on their side prior to submission
 
 * What is successful use of AI in DD&D? What is ROI on the tools?
   * Somewhat timelines (and perhaps cost) - biological latency still exists
     * If we lower cost, does that change what we go after?
-  * [Success as improving p(success)]{.rn-fragment rn-type=underline rn-color=red} - better models, biomarkers, and trial designs
+  * [Success as improving _p(success)_]{.rn-fragment rn-type=underline rn-color=red} - better models, biomarkers, and trial designs
     * If more drug candidates, do we create a bottleneck with patients? sites?
 
 ## AI and DD&D - Erika (1/2)
