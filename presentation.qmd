@@ -79,7 +79,7 @@ Director of Startup Engagement, Mayo Clinic
 ## AI and DD&D - Brian (2/2) {.smaller}
 
 * Drug Development / GXP
-  * CDISC efforts - [360i]{.rn-fragment rn-type=underline rn-color=red}, USDM / TMF, SDTM-ADAM and data engineering [coding]{.rn-fragment rn-type=underline rn-color=red}
+  * CDISC efforts - [360i]{.rn-fragment rn-type=underline rn-color=red}, USDM / TMF, CRF-SDTM-ADaM-ARD-TLF and data eng [coding]{.rn-fragment rn-type=underline rn-color=red}
   * Only [non-critical tasks]{.rn-fragment rn-type=underline rn-color=red} and then with auditing and approvals
   * Validation of agents similar to that of R and R packages (with non-determinism)
 
